@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "abstract-factory": "nodemon --exec babel-node abstract-factory.js",
+    "builder": "nodemon --exec babel-node builder.js",
+    "factory-method": "nodemon --exec babel-node factory-method.js",
+    "prototype": "nodemon --exec babel-node prototype.js",
+    "simple-factory": "nodemon --exec babel-node simple-factory.js",
+    "singleton": "nodemon --exec babel-node singleton.js",
+    "start": "nodemon --exec babel-node prototype.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.1",
+    "nodemon": "^1.18.10"
+  }
+}
