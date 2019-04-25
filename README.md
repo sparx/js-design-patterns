@@ -1,6 +1,7 @@
 # Design patterns
 
 Design patterns written in vanilla JavaScript (ES6+) for node.js
+
 Based on book ["Dive into design patterns"](https://refactoring.guru/design-patterns/book)
 
 ## Installation
