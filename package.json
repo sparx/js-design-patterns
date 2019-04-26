@@ -1,10 +1,11 @@
 {
-  "name": "server",
+  "name": "js-patterns",
   "version": "1.0.0",
-  "description": "",
+  "description": "Design patterns in JavaScript",
   "main": "index.js",
   "scripts": {
     "abstract-factory": "nodemon --exec babel-node abstract-factory.js",
+    "adapter": "nodemon --exec babel-node adapter.js",
     "builder": "nodemon --exec babel-node builder.js",
     "factory-method": "nodemon --exec babel-node factory-method.js",
     "prototype": "nodemon --exec babel-node prototype.js",
