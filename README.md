@@ -18,7 +18,7 @@ npm install
 
 ## Usage
 
-To use some pattern, run corresponding command ```npm run <pattern-name>```, where ```pattern-name``` is pattern filename in root directory.
+To use some pattern, run corresponding command ```npm run <pattern-name>```, where ```pattern-name``` is pattern filename in ```examples``` directory.
 
 **Examples:**
 

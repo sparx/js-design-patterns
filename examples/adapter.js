@@ -1,4 +1,4 @@
-import { Target, Adaptee, Adapter } from './patterns/adapter';
+import { Target, Adaptee, Adapter } from '../patterns/adapter';
 
 // this function supports all classes that follows Target interface
 function clientCode(target) {

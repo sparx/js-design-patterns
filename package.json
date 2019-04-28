@@ -4,14 +4,14 @@
   "description": "Design patterns in JavaScript",
   "main": "index.js",
   "scripts": {
-    "abstract-factory": "nodemon --exec babel-node abstract-factory.js",
-    "adapter": "nodemon --exec babel-node adapter.js",
-    "builder": "nodemon --exec babel-node builder.js",
-    "factory-method": "nodemon --exec babel-node factory-method.js",
-    "prototype": "nodemon --exec babel-node prototype.js",
-    "simple-factory": "nodemon --exec babel-node simple-factory.js",
-    "singleton": "nodemon --exec babel-node singleton.js",
-    "start": "nodemon --exec babel-node prototype.js"
+    "abstract-factory": "nodemon --exec babel-node examples/abstract-factory.js",
+    "adapter": "nodemon --exec babel-node examples/adapter.js",
+    "builder": "nodemon --exec babel-node examples/builder.js",
+    "factory-method": "nodemon --exec babel-node examples/factory-method.js",
+    "prototype": "nodemon --exec babel-node examples/prototype.js",
+    "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
+    "singleton": "nodemon --exec babel-node examples/singleton.js",
+    "start": "nodemon --exec babel-node examples/prototype.js"
   },
   "keywords": [],
   "author": "",

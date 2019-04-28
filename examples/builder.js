@@ -1,4 +1,4 @@
-import { Director, Builder1, Builder2 } from './patterns/builder';
+import { Director, Builder1, Builder2 } from '../patterns/builder';
 
 // this required only if predefined products will be used
 const director = new Director();

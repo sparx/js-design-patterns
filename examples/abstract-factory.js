@@ -1,4 +1,4 @@
-import { Factory1, Factory2 } from './patterns/abstract-factory';
+import { Factory1, Factory2 } from '../patterns/abstract-factory';
 
 /* --- create products of type 1 --- */
 

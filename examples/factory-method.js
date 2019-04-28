@@ -1,4 +1,4 @@
-import { Creator1, Creator2 } from './patterns/factory-method';
+import { Creator1, Creator2 } from '../patterns/factory-method';
 
 /* --- use creator #1 --- */
 console.log('App: launched with Creator1.');

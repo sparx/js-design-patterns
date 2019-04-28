@@ -1,4 +1,4 @@
-import { Singleton } from './patterns/singleton';
+import { Singleton } from '../patterns/singleton';
 
 // create object #1 with new
 const singleton1 = new Singleton();

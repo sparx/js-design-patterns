@@ -1,4 +1,4 @@
-import { Prototype, Component } from './patterns/prototype';
+import { Prototype, Component } from '../patterns/prototype';
 
 // create object
 const p1 = new Prototype();

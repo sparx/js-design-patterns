@@ -1,4 +1,4 @@
-import { ProductFactory } from './patterns/simple-factory';
+import { ProductFactory } from '../patterns/simple-factory';
 
 /* --- make product #1 --- */
 const product1 = ProductFactory.makeProduct('property-A-1', 'property-B-1');
