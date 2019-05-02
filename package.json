@@ -10,6 +10,7 @@
     "builder": "nodemon --exec babel-node examples/builder.js",
     "composite": "nodemon --exec babel-node examples/composite.js",
     "decorator": "nodemon --exec babel-node examples/decorator.js",
+    "facade": "nodemon --exec babel-node examples/facade.js",
     "factory-method": "nodemon --exec babel-node examples/factory-method.js",
     "prototype": "nodemon --exec babel-node examples/prototype.js",
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
