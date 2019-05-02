@@ -9,6 +9,7 @@
     "bridge": "nodemon --exec babel-node examples/bridge.js",
     "builder": "nodemon --exec babel-node examples/builder.js",
     "composite": "nodemon --exec babel-node examples/composite.js",
+    "decorator": "nodemon --exec babel-node examples/decorator.js",
     "factory-method": "nodemon --exec babel-node examples/factory-method.js",
     "prototype": "nodemon --exec babel-node examples/prototype.js",
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
