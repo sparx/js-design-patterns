@@ -14,6 +14,7 @@
     "factory-method": "nodemon --exec babel-node examples/factory-method.js",
     "flyweight": "nodemon --exec babel-node examples/flyweight.js",
     "prototype": "nodemon --exec babel-node examples/prototype.js",
+    "proxy": "nodemon --exec babel-node examples/proxy.js",
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
     "singleton": "nodemon --exec babel-node examples/singleton.js",
     "start": "nodemon --exec babel-node examples/prototype.js"
