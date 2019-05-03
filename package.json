@@ -8,6 +8,7 @@
     "adapter": "nodemon --exec babel-node examples/adapter.js",
     "bridge": "nodemon --exec babel-node examples/bridge.js",
     "builder": "nodemon --exec babel-node examples/builder.js",
+    "chain-of-responsibility": "nodemon --exec babel-node examples/chain-of-responsibility.js",
     "composite": "nodemon --exec babel-node examples/composite.js",
     "decorator": "nodemon --exec babel-node examples/decorator.js",
     "facade": "nodemon --exec babel-node examples/facade.js",
