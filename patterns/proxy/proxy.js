@@ -1,3 +1,5 @@
+let privateSubject = null;
+
 function checkAccess() {
   console.log('Proxy: check access before executing real request...');
   return true;
@@ -11,13 +13,13 @@ function logAccess() {
 class Proxy {
   // reference to object of Subject class
   constructor(subject) {
-    this.subject = subject;
+    privateSubject = subject;
   }
 
   // Proxy may do smth before and after real request
   request() {
     if (checkAccess()) {
-      this.subject.request();
+      privateSubject.request();
       logAccess();
     }
   }
