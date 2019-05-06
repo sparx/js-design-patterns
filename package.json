@@ -23,7 +23,7 @@
     "proxy": "nodemon --exec babel-node examples/proxy.js",
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
     "singleton": "nodemon --exec babel-node examples/singleton.js",
-    "start": "nodemon --exec babel-node examples/prototype.js"
+    "state": "nodemon --exec babel-node examples/state.js"
   },
   "keywords": [],
   "author": "",
