@@ -15,6 +15,7 @@
     "facade": "nodemon --exec babel-node examples/facade.js",
     "factory-method": "nodemon --exec babel-node examples/factory-method.js",
     "flyweight": "nodemon --exec babel-node examples/flyweight.js",
+    "iterator": "nodemon --exec babel-node examples/iterator.js",
     "prototype": "nodemon --exec babel-node examples/prototype.js",
     "proxy": "nodemon --exec babel-node examples/proxy.js",
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
