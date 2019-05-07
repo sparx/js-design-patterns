@@ -24,7 +24,8 @@
     "simple-factory": "nodemon --exec babel-node examples/simple-factory.js",
     "singleton": "nodemon --exec babel-node examples/singleton.js",
     "state": "nodemon --exec babel-node examples/state.js",
-    "strategy": "nodemon --exec babel-node examples/strategy.js"
+    "strategy": "nodemon --exec babel-node examples/strategy.js",
+    "template-method": "nodemon --exec babel-node examples/template-method.js"
   },
   "keywords": [],
   "author": "",
